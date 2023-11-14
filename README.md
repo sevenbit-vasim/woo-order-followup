@@ -1,2 +1,8 @@
-# woo-order-followup
-Boost Customer Engagement: Automatically Trigger Review Follow-Up Emails with WooCommerce After Order Completion
+# WooCommerce Order Follow-Up Emails
+
+Boost customer engagement by automatically triggering review follow-up emails with WooCommerce after order completion.
+
+## Prerequisites
+
+- WordPress installed and configured
+- WooCommerce plugin installed and activated
